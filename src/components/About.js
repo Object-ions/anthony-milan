@@ -1,11 +1,13 @@
 import aboutImage from '../assets/images/about.jpeg';
 import '../assets/styles/about.scss';
+
 const About = () => {
   return (
     <div id="about">
-      <div className="about-image-wrapper">
-        <img src={`${aboutImage}`} alt="Anthony" />
-      </div>
+      <div
+        className="about-image-wrapper"
+        style={{ background: `url(${aboutImage})` }}
+      ></div>
 
       <div className="about-content">
         <h2>Anthony Milian</h2>
