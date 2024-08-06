@@ -1,10 +1,14 @@
-.container {
+.plans {
+  margin: 5rem auto;
   padding: 20px;
-  max-width: 800px;
-  margin: 0 auto;
+  max-width: 1200px;
+
+  h2 {
+    font-size: 3rem;
+  }
 
   h3 {
-    margin-bottom: 1rem;
+    margin: 1rem;
   }
 }
 

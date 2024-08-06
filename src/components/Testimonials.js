@@ -1,7 +1,7 @@
 import '../assets/styles/testimonials.scss';
 
 const Testimonials = () => (
-  <div className="testimonials-container">
+  <div id="testimonials-container">
     <h2 className="section-title">Success Stories</h2>
 
     <div className="testimonials-grid">
@@ -38,6 +38,17 @@ const Testimonials = () => (
             achieve my fitness goals from home."
           </p>
           <span>– Maria S.</span>
+        </div>
+      </div>
+      <div className="testimonial">
+        <img src="/path/to/image4.jpg" alt="Client 4" />
+        <div className="testimonial-text">
+          <p>
+            "The virtual training sessions have been a game-changer for me.
+            Anthony's guidance and support make it easy to stay motivated and
+            achieve my fitness goals from home."
+          </p>
+          <span>– Danielle B.</span>
         </div>
       </div>
     </div>

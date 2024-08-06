@@ -1,7 +1,8 @@
 #about {
+  max-width: 1200px;
+  margin: 2rem auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin: 2rem 1rem;
 
   .about-image-wrapper {
     padding: 1rem;

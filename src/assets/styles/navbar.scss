@@ -2,22 +2,39 @@
 @import '../../scss/mixins';
 
 nav {
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: space-between;
-  padding: 2rem;
   background: $grey-color;
+  position: sticky;
+  top: 0;
 
-  text-transform: uppercase;
-
-  ul {
+  .nav-content {
+    max-width: 1200px;
+    margin: 0 auto;
     display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
 
-    list-style: none;
+    text-transform: uppercase;
 
-    li {
-      margin-left: 1.5rem;
+    ul {
+      display: flex;
+
+      list-style: none;
+
+      li {
+        color: $blue-color;
+        margin: 1rem;
+
+        a {
+          padding: 1rem;
+          color: $blue-color;
+
+          &:hover {
+            background: $blue-color;
+            color: $black-color;
+          }
+        }
+      }
     }
   }
 }

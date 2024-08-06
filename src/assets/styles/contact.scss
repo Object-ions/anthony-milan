@@ -1,0 +1,48 @@
+/* ContactMe.scss */
+
+.contact-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.contact-text {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  color: #666;
+}
+
+.contact-info {
+  font-size: 1rem;
+  margin-bottom: 20px;
+  color: #555;
+
+  p {
+    margin: 5px 0;
+  }
+}
+
+.social-media {
+  margin-top: 20px;
+
+  a {
+    margin: 0 10px;
+    color: #82c91e;
+    text-decoration: none;
+    font-size: 1.2rem;
+
+    &:hover {
+      color: #555;
+    }
+  }
+}
