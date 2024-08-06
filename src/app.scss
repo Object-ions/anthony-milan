@@ -1,0 +1,51 @@
+@import '/src/scss/_variables.scss';
+@import '/src/scss/_mixins';
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: $grey-color;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-heading;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+p,
+a,
+button {
+  font-family: $font-text;
+}
+
+main {
+  margin: 0 auto;
+}
