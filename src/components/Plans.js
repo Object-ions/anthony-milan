@@ -2,7 +2,7 @@ import '../assets/styles/plans.scss';
 
 const Plans = () => {
   return (
-    <div className="plans">
+    <div id="plans">
       <h2 className="section-title">Packages and Services</h2>
 
       <h3 className="sub-section-title">Personal Training Packages</h3>

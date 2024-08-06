@@ -1,4 +1,5 @@
 import '../../assets/styles/footer.scss';
+
 const Footer = () => {
   return (
     <footer className="footer">
@@ -33,7 +34,16 @@ const Footer = () => {
           </a>
         </div>
       </div>
-      <p>&copy; 2024 Anthony Milian Fitness. All rights reserved.</p>
+      <p>
+        &copy; 2024 Anthony Milian Fitness. All rights reserved. Built by{' '}
+        <a
+          href="https://www.switchcasestudio.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {'<SC />'}
+        </a>{' '}
+      </p>
     </footer>
   );
 };
