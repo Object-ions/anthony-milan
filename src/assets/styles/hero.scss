@@ -2,7 +2,7 @@
 @import '../../scss/mixins';
 
 #hero {
-  @include fit-bg-image;
+  @include fit-bg-image(-20%);
 
   .hero-wrapper {
     max-width: 1200px;
