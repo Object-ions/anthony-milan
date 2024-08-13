@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/anthony-milan/static/css/main.5a1157b3.css",
+    "main.js": "/anthony-milan/static/js/main.04eaeb8e.js",
+    "static/js/453.c38f04fb.chunk.js": "/anthony-milan/static/js/453.c38f04fb.chunk.js",
+    "static/media/bg-video.mov": "/anthony-milan/static/media/bg-video.dad021dc183edd288b20.mov",
+    "static/media/milian.jpg": "/anthony-milan/static/media/milian.76a2759b9e5516cd835f.jpg",
+    "static/media/IMG_8015.jpg": "/anthony-milan/static/media/IMG_8015.02cab7862ba820ddefb3.jpg",
+    "index.html": "/anthony-milan/index.html",
+    "main.5a1157b3.css.map": "/anthony-milan/static/css/main.5a1157b3.css.map",
+    "main.04eaeb8e.js.map": "/anthony-milan/static/js/main.04eaeb8e.js.map",
+    "453.c38f04fb.chunk.js.map": "/anthony-milan/static/js/453.c38f04fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a1157b3.css",
+    "static/js/main.04eaeb8e.js"
+  ]
+}
