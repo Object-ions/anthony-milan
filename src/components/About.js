@@ -17,7 +17,7 @@ const About = () => {
           a professional contemporary &amp; ballet dancer working full-time with Northwest Dance
           Project {' '}
 
-          <a href="#">
+          <a href="https://google.com">
           (hyperlink NW Dance project website)
           </a>
 
