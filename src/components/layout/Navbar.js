@@ -1,3 +1,6 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons';
+
 import '../../assets/styles/navbar.scss';
 const Navbar = () => {
   return (
@@ -18,8 +21,11 @@ const Navbar = () => {
           </li>
         </ul>
         <ul>
-          <li>Instagram</li>
-          <li>@anthony_milian</li>
+          <li>
+            <a href="https://www.instagram.com/anthonytmilian" target='_blank' rel='noreferrer'>
+              <FontAwesomeIcon icon={faInstagram} size="2x"/>
+            </a>
+          </li>
         </ul>
       </div>
     </nav>
