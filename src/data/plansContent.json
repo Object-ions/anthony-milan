@@ -1,0 +1,65 @@
+{
+  "packages": [
+    {
+      "category": "Personal Training Packages",
+      "services": [
+        {
+          "title": "In-Person One-on-One Training",
+          "description": [
+            "Personalized coaching designed to help you achieve your fitness goals.",
+            "Introductory and Goal Setting Session: We’ll kick off with a thorough assessment of your fitness level, medical history, and personal aspirations.",
+            "Personalized Workout Program Design: Receive a customized workout plan that aligns with your goals and abilities.",
+            "Flexible Scheduling: Enjoy sessions that fit seamlessly into your lifestyle, ensuring you stay committed."
+          ],
+          "pricing": "$70 per session | $650 for 10 sessions"
+        },
+        {
+          "title": "Virtual Training",
+          "description": [
+            "Stay on track with expert guidance from the comfort of your own home.",
+            "Tailored Online Workouts: Get customized training plans delivered digitally, complete with video instructions.",
+            "Convenience and Flexibility: Schedule your sessions at your convenience, with real-time feedback during virtual check-ins."
+          ],
+          "pricing": "$60 per session | $540 for 10 sessions"
+        },
+        {
+          "title": "In-Person Group Training",
+          "description": [
+            "Join forces with friends, family, or partners for a dynamic workout experience!",
+            "Engaging Workouts: Participate in sessions designed to meet individual goals within a group setting.",
+            "Supportive Environment: Build camaraderie and motivation as you work towards fitness together."
+          ],
+          "pricing": "$40 per person per session | $360 per person for 10 sessions"
+        }
+      ]
+    },
+    {
+      "category": "Specialized Programs",
+      "services": [
+        {
+          "title": "Choreography: Solos or Group Pieces",
+          "description": [
+            "College Admission Solos, Competition Pieces"
+          ],
+          "pricing": "Contact for pricing"
+        },
+        {
+          "title": "Dance Technique Privates",
+          "description": [
+            "Enhance and enrich your contemporary, ballet, or dance training.",
+            "Whether your skill level is beginner or advanced, I can help take your abilities to new heights."
+          ],
+          "pricing": "Contact for pricing"
+        },
+        {
+          "title": "Contemporary Masterclasses",
+          "description": [
+            "Book a masterclass for your studio, school, or dance organization.",
+            "Teaching abilities include contemporary, ballet, floorwork, and many other styles."
+          ],
+          "pricing": "Contact for pricing"
+        }
+      ]
+    }
+  ]
+}
