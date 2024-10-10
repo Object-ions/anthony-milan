@@ -6,10 +6,10 @@ const Hero = () => {
     <div id="hero" style={{ background: `url(${heroImage})` }}>
       <div className="hero-wrapper">
         <div className="hero-content">
-          <h1>Inclusive Workouts for Everyone</h1>
+          <h1>WORKOUTS FOR EVERYONE</h1>
           <p>
-            No matter your color, size, or background, Anthony Milian welcomes
-            you to a journey of fitness and well-being.
+            Regardless of where you are in your fitness journey, I will help you feel more
+            confident and empowered through my use of functional fitness.
           </p>
 
           <button>Join Me Today!</button>
