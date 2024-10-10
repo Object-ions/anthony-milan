@@ -7,6 +7,7 @@ import Plans from './components/Plans';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/layout/Footer';
+import Journey from './components/Journey';
 function App() {
   return (
     <main>
@@ -15,6 +16,7 @@ function App() {
       <About />
       <Testimonials />
       <Plans />
+      <Journey />
       <Contact />
       <Footer />
     </main>
